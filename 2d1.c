@@ -10,6 +10,7 @@ int main(){
     }
     
     int brr[n][m];
+    int a=0;
 
      for(int j=0;j<m;j++){
         for(int i=0;i<n;i++){
